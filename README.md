@@ -1,1 +1,1 @@
-# git-study
+#Gitのお勉強
